@@ -11,14 +11,14 @@ I’m a computer science student with a passion for solving problems and buildin
 
 ## 🌐 Explore My Work
 
-✨ **Check out my portfolio website:** [Visit My Portfolio](https://singular-treacle-46a976.netlify.app/#contacts)  
+✨ **Check out my portfolio website:** [Visit My Portfolio](https://singular-treacle-46a976.netlify.app)  
 
 Here, you’ll find:  
 - 🌟 A showcase of my skills and projects.  
 - 📄 My resume and achievements.  
 - 📬 Contact details to connect with me.  
 
-![Portfolio Preview](output.gif)
+[![Portfolio Preview](output.gif)](https://singular-treacle-46a976.netlify.app)
 
 
 ## 💡 Why This Repository?  
@@ -31,8 +31,8 @@ This repository serves as my digital workspace where I document my projects, sha
 
 
 ## 📫 Let’s Connect!  
-- 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://singular-treacle-46a976.netlify.app/#contacts)  
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arrajkamel)  
-- 💻 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/arrajkamel)  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://singular-treacle-46a976.netlify.app/#contacts)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arrajkamel)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/arrajkamel)  
 
 Feel free to connect or collaborate—let’s build something great together!  
