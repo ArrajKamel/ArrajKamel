@@ -18,7 +18,7 @@ Here, you’ll find:
 - 📄 My resume and achievements.  
 - 📬 Contact details to connect with me.  
 
-[![Portfolio Preview](output.gif)](https://singular-treacle-46a976.netlify.app)
+[![Portfolio Preview](terminal.gif)](https://singular-treacle-46a976.netlify.app)
 
 
 ## 💡 Why This Repository?  
